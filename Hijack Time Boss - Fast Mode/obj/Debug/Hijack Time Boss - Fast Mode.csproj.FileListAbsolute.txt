@@ -1,0 +1,9 @@
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack_Time_Boss___Fast_Mode.Form1.resources
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack_Time_Boss___Fast_Mode.Properties.Resources.resources
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack Time Boss - Fast Mode.csproj.GenerateResource.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack Time Boss - Fast Mode.csproj.CoreCompileInputs.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\bin\Debug\Hijack Time Boss - Fast Mode.exe
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\bin\Debug\Hijack Time Boss - Fast Mode.pdb
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack Time Boss - Fast Mode.exe
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack Time Boss - Fast Mode.pdb
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Time Boss - Fast Mode\obj\Debug\Hijack Time Boss - Fast Mode.csprojAssemblyReference.cache

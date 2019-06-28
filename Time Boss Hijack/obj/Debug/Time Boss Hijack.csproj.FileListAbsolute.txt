@@ -1,0 +1,9 @@
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\bin\Debug\Time Boss Hijack.exe
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\bin\Debug\Time Boss Hijack.pdb
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time_Boss_Hijack.Form1.resources
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time_Boss_Hijack.Properties.Resources.resources
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time Boss Hijack.csproj.GenerateResource.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time Boss Hijack.csproj.CoreCompileInputs.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time Boss Hijack.exe
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time Boss Hijack.pdb
+C:\Users\geekf\source\repos\Time Boss Hijack\Time Boss Hijack\obj\Debug\Time Boss Hijack.csprojAssemblyReference.cache

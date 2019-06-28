@@ -1,0 +1,11 @@
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\bin\Debug\Hijack Component.exe
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\bin\Debug\Hijack Component.pdb
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\bin\Debug\Hijack Component.xml
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack Component.vbprojAssemblyReference.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack_Component.Form1.resources
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack_Component.Resources.resources
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack Component.vbproj.GenerateResource.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack Component.vbproj.CoreCompileInputs.cache
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack Component.exe
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack Component.xml
+C:\Users\geekf\source\repos\Time Boss Hijack\Hijack Component\obj\Debug\Hijack Component.pdb
